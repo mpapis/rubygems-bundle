@@ -16,6 +16,7 @@ Bring missing bundler functionalities to rubygems 2+
 1. `Rubygems.require(*groups)`
   - https://github.com/bundler/bundler/blob/master/lib/bundler.rb#L101
   - https://github.com/bundler/bundler/blob/master/lib/bundler/runtime.rb#L68
+  - https://github.com/rubygems/rubygems/pull/1224 (`Gem.gemdeps.requires`)
 
 ## TODO CLI
 
